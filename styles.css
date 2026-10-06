@@ -2,6 +2,10 @@ body {
   background-color: powderblue;
 }
 
+h1 {
+  font-family: Noto Sans, Verdana, sans-serif;
+}
+
 p {
   font-family: Tahoma, Verdana, sans-serif;
 }
